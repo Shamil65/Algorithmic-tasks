@@ -1,8 +1,9 @@
 import turtle
 import math
 
+
 turtle.shape()
-turtle.speed(0)
+turtle.speed(0.1)
 turtle.hideturtle()
 screen = turtle.Screen()
 
