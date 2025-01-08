@@ -3,9 +3,7 @@ import math
 
 
 turtle.shape()
-turtle.speed(0.1)
 turtle.hideturtle()
-screen = turtle.Screen()
 
 
 def drawing_a_circle(number_of_sides, R, turn=True):
