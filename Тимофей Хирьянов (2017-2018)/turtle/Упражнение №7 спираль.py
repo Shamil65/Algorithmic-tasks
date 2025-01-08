@@ -1,3 +1,5 @@
+# Нарисуйте «квадратную» спираль
+
 import turtle
 
 turtle.shape('turtle')

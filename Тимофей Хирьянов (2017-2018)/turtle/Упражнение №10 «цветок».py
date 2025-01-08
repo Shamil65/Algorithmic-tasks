@@ -1,6 +1,7 @@
+#Нарисуйте «цветок» из окружностей. Используйте функцию, рисующую окружность
+
 import turtle
 import math
-
 
 turtle.shape()
 turtle.hideturtle()
