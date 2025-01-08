@@ -3,7 +3,6 @@
 import turtle
 
 turtle.shape()
-turtle.hideturtle()
 
 turtle.left(90)
 
