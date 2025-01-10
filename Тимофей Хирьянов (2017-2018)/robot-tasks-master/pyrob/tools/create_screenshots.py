@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 
-import pyrob.solutions.all_tasks
+import all_tasks
 import pyrob
 import pyrob.core
 import pyrob.viz
+#D:\Algorithmic tasks\Тимофей Хирьянов (2017-2018)\robot-tasks-master\task_1.py
 
 import pyscreenshot as ImageGrab
 
